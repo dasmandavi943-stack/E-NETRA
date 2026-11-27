@@ -5,3 +5,5 @@ venv/
 .env
 *.joblib
 .DS_Store
+
+graph_engine/.env
