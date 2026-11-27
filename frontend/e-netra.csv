@@ -1,0 +1,2 @@
+project_id,mp_name,district,work_category,estimated_cost,sanctioned_amount,amount_released,sanction_date,completion_date,status,vendor_id,vendor_name,vendor_address,vendor_phone,bank_account_id,site_lat,site_lon,photo_lat,photo_lon,photo_path
+MPLAD_001,MP_Representative_1,Bhopal,Road,800000,820000,410000,2026-06-01,2026-10-15,In Progress,VEND_101,Apex Infra Works,12 MP Nagar Bhopal,9826000101,BANK_HASH_01,23.2332,77.4343,23.2333,77.4344,images/work_001.jpg
