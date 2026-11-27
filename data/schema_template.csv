@@ -1,0 +1,2 @@
+project_id,mp_name,district,work_category,estimated_cost,sanctioned_amount,amount_released,sanction_date,completion_date,status,vendor_id,vendor_name,vendor_address,vendor_phone,bank_account_id,site_lat,site_lon,photo_lat,photo_lon,photo_path
+MPLAD_001,Shri Alok Sharma,Bhopal,Road,500000,520000,450000,2026-08-15,2026-11-20,Completed,VEND_101,Sharma Infra Builders,MP Nagar Zone 2 Bhopal,9826012345,BANK_HASH_8841,23.2313,77.4326,23.2314,77.4325,images/work_001.jpg
