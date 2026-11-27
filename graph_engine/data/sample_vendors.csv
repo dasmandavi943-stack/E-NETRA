@@ -1,0 +1,139 @@
+project_id,tender_id,district,work_category,sanctioned_amount,contractor_id,contractor_name,gstin,registered_address,bank_account_hash,bid_amount,is_winner
+MPLAD_2026_001,TND_001,Bhopal,CC Road Construction,2355144,VND_001_1,"Kamdar, Parekh and Sama",23MHEUX6055W8Z5,"49/131, Chana Ganj, Udupi-937947",2405609c16196ccc,2332120,True
+MPLAD_2026_001,TND_001,Bhopal,CC Road Construction,2355144,VND_001_2,"Brar, Sen and Bakshi",23RHZAT2502Y1Z8,"651, Varghese Marg, Bardhaman 258329",31a9dc994c81f330,2397242,False
+MPLAD_2026_002,TND_002,Raisen,Community Hall,2344492,VND_002_1,"Choudhary, Pathak and Arora",23KCDNI5344K6Z7,"74, Deshpande Circle, Tirunelveli-743433",7db60b9532584f28,2332775,True
+MPLAD_2026_002,TND_002,Raisen,Community Hall,2344492,VND_002_2,Apte-Suri,23GFVKS4546K1Z2,"25/737, Roy Street, Kota-033368",25f8d1230cba4246,2365887,False
+MPLAD_2026_003,TND_003,Indore,Drinking Water Borewell,866653,VND_003_1,Khalsa-Dhawan,23UXCYV5826A4Z7,"69/73, Murthy Street, Jammu-918236",e695eb45693ec7ff,859701,True
+MPLAD_2026_003,TND_003,Indore,Drinking Water Borewell,866653,VND_003_2,Sankar-Sachar,23SORDD8031C5Z3,"H.No. 225, Naidu, Thrissur-033655",a9422ad06167be7a,888933,False
+MPLAD_2026_004,TND_004,Raisen,Community Hall,1859806,VND_004_1,Nagar-Mital,23YGWIY1470C7Z0,"H.No. 116, Ranganathan Circle, Gudivada-709194",c213892e5ac37976,1853067,True
+MPLAD_2026_004,TND_004,Raisen,Community Hall,1859806,VND_004_2,Sarna-Dhar,23QYSKC1913L8Z9,"34/561, Bail Nagar, Narasaraopet 169134",3a8501bf6641e846,1895868,False
+MPLAD_2026_005,TND_005,Indore,Drinking Water Borewell,1262297,VND_005_1,"Deo, Varughese and Dey",23BXMVV4006Z1Z6,"H.No. 927, Chakraborty Ganj, Tadipatri 027142",eadcce7eca0775f0,1227858,True
+MPLAD_2026_005,TND_005,Indore,Drinking Water Borewell,1262297,VND_005_2,Halder LLC,23XYROD3787P3Z2,"H.No. 694, Kala, Tumkur-354837",f8935c210abfadca,1308760,False
+MPLAD_2026_006,TND_006,Bhopal,Community Hall,2264104,VND_006_1,Shenoy-Parmar,23XCXJJ7374U3Z7,"28, Nath, Sambalpur-686654",b616f40058e6076b,2231408,True
+MPLAD_2026_006,TND_006,Bhopal,Community Hall,2264104,VND_006_2,Rattan-Kunda,23UWIGP6275R5Z2,"07/61, Rout Ganj, Bardhaman-686813",277d7bad806614d2,2318701,False
+MPLAD_2026_007,TND_007,Sehore,Community Hall,1251545,VND_007_1,Talwar Inc,23IFQZV9921Y3Z2,"H.No. 01, Om, Durg 176576",a82de0a56903a59b,1224486,True
+MPLAD_2026_007,TND_007,Sehore,Community Hall,1251545,VND_007_2,Acharya-Badami,23HZTEI6084U7Z9,"36/631, Lad Path, Amritsar-534069",44b73147655fb5e9,1274941,False
+MPLAD_2026_008,TND_008,Bhopal,Drinking Water Borewell,1002828,VND_008_1,Koshy-Ramachandran,23WEVSS3946I0Z6,"H.No. 951, Sinha Nagar, Amritsar 177429",a4fdd8ec654398bc,974302,True
+MPLAD_2026_008,TND_008,Bhopal,Drinking Water Borewell,1002828,VND_008_2,Gandhi-Murty,23JCXVX9629M9Z4,"H.No. 331, Murthy Street, Mumbai-350049",efd5ee5a52b32b93,1057910,False
+MPLAD_2026_009,TND_009,Indore,Solar Street Lights,2492670,VND_009_1,"Memon, Kata and Chokshi",23RUBWO0341T9Z2,"13/452, Biswas Circle, Thane 799601",17d9db04f536b231,2484823,True
+MPLAD_2026_009,TND_009,Indore,Solar Street Lights,2492670,VND_009_2,Sami-Dua,23ODNAM1305F2Z2,"20, Lata Ganj, Gaya 111669",95a017e7f51848a2,2562887,False
+MPLAD_2026_010,TND_010,Indore,CC Road Construction,1593844,VND_010_1,Sen-Dhar,23YPFHI2913Q6Z0,"02/012, Palan Circle, Uluberia 719144",836707c0b725fd9a,1583680,True
+MPLAD_2026_010,TND_010,Indore,CC Road Construction,1593844,VND_010_2,Sama-Thaker,23HPNLV0374A3Z7,"52/321, Din Zila, Gulbarga-041846",b6f31c4e12e76957,1642271,False
+MPLAD_2026_011,TND_011,Indore,Solar Street Lights,2010795,VND_011_1,Palla-Puri,23OYJEJ7057Q3Z8,"H.No. 891, Sinha Ganj, Belgaum-251847",45d0c4cac862c94a,1993194,True
+MPLAD_2026_011,TND_011,Indore,Solar Street Lights,2010795,VND_011_2,"Arora, Toor and Dani",23YRDHN8487Y4Z5,"14/91, Rau, Asansol-161587",4ab3dbe70d463df0,2029911,False
+MPLAD_2026_012,TND_012,Bhopal,Community Hall,2421241,VND_012_1,Kata-Narang,23JZTUP1645Z8Z3,"31/305, Dube Circle, Darbhanga-673629",e3469a33513ccc58,2397276,True
+MPLAD_2026_012,TND_012,Bhopal,Community Hall,2421241,VND_012_2,Verma-Narayan,23ILTEA9675P6Z6,"57/090, Sen Zila, Bhatpara 952088",3bf582f98453e6b7,2441699,False
+MPLAD_2026_013,TND_013,Raisen,CC Road Construction,1597182,VND_013_1,Hayre Group,23JPEBG2504V3Z6,"35/13, Varty Marg, Panihati-367224",dc28ef9127aba31d,1573965,True
+MPLAD_2026_013,TND_013,Raisen,CC Road Construction,1597182,VND_013_2,Bassi-Varughese,23ZJRLQ6938I1Z6,"932, Natt Zila, Ambarnath-310996",6f9a7163c0039d7b,1666611,False
+MPLAD_2026_014,TND_014,Sehore,Community Hall,1576325,VND_014_1,Pandey Group,23OWJZX0370G7Z7,"40/128, Oak Circle, Dibrugarh 245495",b63545bd9636d322,1548042,True
+MPLAD_2026_014,TND_014,Sehore,Community Hall,1576325,VND_014_2,"Raghavan, Bath and Bhakta",23RESRL1890C2Z9,"H.No. 67, Vasa Nagar, Bhalswa Jahangir Pur-485132",82331038ac4b7f7f,1613785,False
+MPLAD_2026_015,TND_015,Sehore,CC Road Construction,2077440,VND_015_1,"Saini, Acharya and Seth",23VXRYM3605Y8Z8,"40/73, Agate, Nizamabad 349484",b9b901e8c81e086e,2061225,True
+MPLAD_2026_015,TND_015,Sehore,CC Road Construction,2077440,VND_015_2,"Tripathi, Kumar and Chander",23YRPGH3492K9Z6,"97/326, Agrawal, Bijapur-651227",ae2c8de40e12f16b,2119527,False
+MPLAD_2026_016,TND_016,Raisen,Drinking Water Borewell,1595775,VND_016_1,"Gokhale, Goda and Devan",23WKJKE6001X2Z9,"77/215, Wable Zila, Bhiwandi-161934",8f4ef50a3becf5bb,1573084,True
+MPLAD_2026_016,TND_016,Raisen,Drinking Water Borewell,1595775,VND_016_2,Ravel-Sampath,23IKKYC6621R2Z9,"H.No. 41, Tandon, Ambarnath-686038",8621a4e7cae8944f,1634560,False
+MPLAD_2026_017,TND_017,Sehore,CC Road Construction,1280348,VND_017_1,Hora-Char,23UFLNY4612S0Z0,"24, Sura, Kochi-417457",dc0012ce484a3d64,1273245,True
+MPLAD_2026_017,TND_017,Sehore,CC Road Construction,1280348,VND_017_2,Nori-Kaul,23DKFSV6182F1Z0,"67/698, Rajagopal Path, Durgapur-640157",dcafced82baa6c8f,1331695,False
+MPLAD_2026_018,TND_018,Vidisha,Solar Street Lights,938807,VND_018_1,"Sharma, Cherian and Khare",23OVURU1773D5Z1,"H.No. 058, Hegde Chowk, Ujjain 410064",21e5bd12e3bad740,919981,True
+MPLAD_2026_018,TND_018,Vidisha,Solar Street Lights,938807,VND_018_2,"Modi, Nagi and Suresh",23HUWSG1382T9Z2,"95/111, Ramaswamy Street, Kavali 007478",1e64490d43890a5d,990052,False
+MPLAD_2026_019,TND_019,Raisen,Drinking Water Borewell,1629700,VND_019_1,"Lata, Kapoor and Joshi",23IQXKU1888R8Z5,"H.No. 088, Chacko Circle, Gaya-641708",3bad77591adcf5eb,1594629,True
+MPLAD_2026_019,TND_019,Raisen,Drinking Water Borewell,1629700,VND_019_2,Arora and Sons,23GCSWV8077U6Z3,"60, Handa, Bettiah-774626",ba5198901daf18f3,1658426,False
+MPLAD_2026_020,TND_020,Sehore,Community Hall,1317215,VND_020_1,"Cheema, Dhingra and Borah",23FGRPA1461C1Z1,"H.No. 97, Sood Circle, Vadodara 730609",127cd87db10abe4e,1294996,True
+MPLAD_2026_020,TND_020,Sehore,Community Hall,1317215,VND_020_2,"Ratti, Datta and Narula",23ICWER9142O3Z1,"36/804, Behl Marg, Jamalpur 887324",644a8c27bf94e265,1383370,False
+MPLAD_2026_021,TND_021,Indore,Drinking Water Borewell,1559161,VND_021_1,Keer Ltd,23JBOII7309Y1Z5,"H.No. 697, Bumb Path, Dehri-615681",c92670452dedcfce,1539788,True
+MPLAD_2026_021,TND_021,Indore,Drinking Water Borewell,1559161,VND_021_2,Handa and Sons,23TGAWW5956J8Z6,"050, Basak Marg, Jamnagar-918653",a9b154e497ced67e,1587292,False
+MPLAD_2026_022,TND_022,Indore,Drinking Water Borewell,990650,VND_022_1,"Thakkar, Bhagat and Butala",23CZLGH5280U1Z4,"065, Kakar Circle, Gandhinagar 259243",101b19a36557ab5e,982563,True
+MPLAD_2026_022,TND_022,Indore,Drinking Water Borewell,990650,VND_022_2,"Joshi, Kaur and Ray",23REYEK0409V0Z4,"85, Bassi Street, Mathura-581346",d2e19f58fd6b0f77,1015021,False
+MPLAD_2026_023,TND_023,Raisen,Community Hall,2461110,VND_023_1,"Ghosh, Arya and Pandey",23CGJQO8192S6Z4,"44/596, Gera Path, Bidar 879226",fed90df23d43b6ec,2428444,True
+MPLAD_2026_023,TND_023,Raisen,Community Hall,2461110,VND_023_2,Tata-Lad,23ZGBJG7393X6Z1,"54/15, Chowdhury Road, Gaya-728230",d76b2341742c9e4a,2479436,False
+MPLAD_2026_024,TND_024,Vidisha,Drinking Water Borewell,2049668,VND_024_1,Badami Ltd,23QIXSR7290S8Z5,"H.No. 612, Swaminathan Chowk, Vijayanagaram-853958",bfc502b338400461,2013994,True
+MPLAD_2026_024,TND_024,Vidisha,Drinking Water Borewell,2049668,VND_024_2,"Pall, Saran and Natt",23DLRQI5842M6Z0,"66, Verma Nagar, Barasat-620913",4d54bebfe061bfbc,2129020,False
+MPLAD_2026_025,TND_025,Sehore,School Boundary Wall,824077,VND_025_1,Chana Inc,23ELUKP0200U3Z8,"40, Khare Zila, Howrah 303400",7bd552ae5464b0cd,811570,True
+MPLAD_2026_025,TND_025,Sehore,School Boundary Wall,824077,VND_025_2,Grover-Mall,23CNEYQ3292T3Z7,"03, Chhabra Zila, Bhavnagar-505459",85ba964e15d0a75b,869050,False
+MPLAD_2026_026,TND_026,Sehore,CC Road Construction,1415514,VND_026_1,"Bhatti, Srinivasan and Behl",23XAESK9911B5Z2,"H.No. 820, Shroff Circle, Meerut-307132",c4e9589f37aa806b,1382022,True
+MPLAD_2026_026,TND_026,Sehore,CC Road Construction,1415514,VND_026_2,Pillai-Ganesan,23VMCAG3727C5Z4,"73/57, Chandran Road, Latur-689070",57a6908433e2bd97,1446244,False
+MPLAD_2026_027,TND_027,Vidisha,CC Road Construction,2314336,VND_027_1,"Srivastava, Sheth and Choudhry",23FIRZW1617T9Z5,"H.No. 405, Mahajan Circle, Ujjain-699118",eeec24a70becb710,2292075,True
+MPLAD_2026_027,TND_027,Vidisha,CC Road Construction,2314336,VND_027_2,Randhawa-Ahluwalia,23XRVOO8060K7Z8,"89/476, Chana Path, Jhansi 478923",ce69a80b11a19094,2389948,False
+MPLAD_2026_028,TND_028,Raisen,School Boundary Wall,1023159,VND_028_1,Bhardwaj and Sons,23GDFNE5053R4Z0,"79/944, Mand Zila, Gudivada 511087",6c0133f282795571,998601,True
+MPLAD_2026_028,TND_028,Raisen,School Boundary Wall,1023159,VND_028_2,"Bhargava, Minhas and Ramaswamy",23TSYIF7219N5Z6,"H.No. 561, Devan Street, Chapra-600663",8e8a9e801aec08c1,1099699,False
+MPLAD_2026_029,TND_029,Indore,Community Hall,1120527,VND_029_1,"Ramesh, Vasa and Tripathi",23XHNLN0814M4Z4,"H.No. 76, Tandon Path, Bilaspur-305268",b8c82e2a15a0d3ef,1091023,True
+MPLAD_2026_029,TND_029,Indore,Community Hall,1120527,VND_029_2,"Sachdeva, Wason and Hayre",23ABQXO4414U4Z2,"16/36, Sanghvi, Thoothukudi-461573",d99c754d6736062d,1151701,False
+MPLAD_2026_030,TND_030,Indore,School Boundary Wall,801199,VND_030_1,Manda PLC,23ZMWNF9423O6Z7,"869, Agarwal Zila, Ambattur-445304",7e5a8b215f240fd3,774956,True
+MPLAD_2026_030,TND_030,Indore,School Boundary Wall,801199,VND_030_2,"Yogi, Edwin and Agarwal",23SQTEI9856Y3Z8,"33, Khare Marg, Bellary 030287",5d1d5fff6707a06e,875241,False
+MPLAD_2026_031,TND_031,Bhopal,CC Road Construction,1561225,VND_031_1,"Wable, Batta and Vig",23QBZZT3272H1Z6,"H.No. 15, Purohit Zila, Anand-945803",d0dd0a9f23468dd2,1536072,True
+MPLAD_2026_031,TND_031,Bhopal,CC Road Construction,1561225,VND_031_2,"Dara, Yohannan and Sidhu",23AVBHG2704F8Z9,"H.No. 17, Nayar Road, Chandigarh-250062",6b9ee45d7b8e5054,1602610,False
+MPLAD_2026_032,TND_032,Bhopal,Community Hall,1989833,VND_032_1,Narayanan-Dugar,23KCHXJ4604G3Z5,"16/587, Keer Road, Nagaon-833164",74071cb52b4e429d,1979672,True
+MPLAD_2026_032,TND_032,Bhopal,Community Hall,1989833,VND_032_2,Kale PLC,23IMUXB3598Z5Z4,"H.No. 584, Kaul Street, Nellore-090427",ea62dc5fb1e8f040,2011059,False
+MPLAD_2026_033,TND_033,Vidisha,CC Road Construction,2395098,VND_033_1,"Ram, Varghese and Narula",23DDNYQ1747B3Z6,"78, Jayaraman, Bidar-137877",aee61ad2a69da44e,2355187,True
+MPLAD_2026_033,TND_033,Vidisha,CC Road Construction,2395098,VND_033_2,Lall PLC,23ZLIDJ8735I2Z3,"049, Nanda Circle, Panihati 245024",f2f4e0335d44bf61,2421581,False
+MPLAD_2026_034,TND_034,Raisen,Drinking Water Borewell,1953021,VND_034_1,Saran and Sons,23WHXBU7673Z5Z8,"75, Doshi Nagar, Hosur 554296",7534db31b5bf53e4,1937200,True
+MPLAD_2026_034,TND_034,Raisen,Drinking Water Borewell,1953021,VND_034_2,Dhillon-Bhat,23VPFIK1827R4Z0,"H.No. 703, Sankaran Ganj, Mehsana 661293",cf4913c8fd8601a9,1997762,False
+MPLAD_2026_035,TND_035,Indore,School Boundary Wall,1687384,VND_035_1,Magar Group,23LONAR7872Z3Z4,"36, Toor Road, Shimla 010619",451b537013e54fd3,1668504,True
+MPLAD_2026_035,TND_035,Indore,School Boundary Wall,1687384,VND_035_2,Chad-Nair,23VXFUW7569K2Z9,"H.No. 96, Setty Path, Pondicherry 974031",c9384a0cbee8f029,1723749,False
+MPLAD_2026_036,TND_036,Sehore,Drinking Water Borewell,2208629,VND_036_1,Babu Inc,23CIEDS6439A3Z9,"77/35, Dua Path, Firozabad-309135",0af3e3a8c6ac80e0,2179157,True
+MPLAD_2026_036,TND_036,Sehore,Drinking Water Borewell,2208629,VND_036_2,"Kala, Chopra and Choudhry",23QUNGR2590R7Z5,"H.No. 536, Chhabra Circle, Pune 168702",5403ab9c15f301bb,2276051,False
+MPLAD_2026_037,TND_037,Indore,Drinking Water Borewell,1053764,VND_037_1,"Setty, Krishna and Palla",23LQGKQ0466E8Z3,"H.No. 80, Chawla Marg, Ghaziabad-348063",ee53f2396d58d6cb,1032518,True
+MPLAD_2026_037,TND_037,Indore,Drinking Water Borewell,1053764,VND_037_2,"Naik, Aurora and Kashyap",23LCJDK3704F9Z6,"H.No. 223, Puri Ganj, Bhind-065222",ac38b5786e5ab9f9,1093215,False
+MPLAD_2026_038,TND_038,Bhopal,Solar Street Lights,844112,VND_038_1,Bora and Sons,23HYBJU8015S5Z2,"372, Soni Zila, Etawah-606515",6474be9ac5ba3f71,824032,True
+MPLAD_2026_038,TND_038,Bhopal,Solar Street Lights,844112,VND_038_2,"Sur, Vala and Sheth",23FCXUS3227T8Z5,"49/398, Magar Chowk, Mysore-379775",d8df9b28fdcd8e4d,882976,False
+MPLAD_2026_039,TND_039,Bhopal,CC Road Construction,2284450,VND_039_1,Rajagopal Inc,23LICVD8649H4Z9,"63/633, Vala Road, Tezpur 845667",af258bfeff39b583,2275592,True
+MPLAD_2026_039,TND_039,Bhopal,CC Road Construction,2284450,VND_039_2,Korpal PLC,23IRSUR6783W3Z9,"44, Srinivasan Zila, Gangtok-979896",a24d76accfd9f31b,2324457,False
+MPLAD_2026_040,TND_040,Bhopal,CC Road Construction,1492958,VND_040_1,"Dhar, Sarraf and Misra",23QKAYN0278B7Z2,"86/17, Sha Road, Gandhinagar-874708",079187e4fbc96732,1483315,True
+MPLAD_2026_040,TND_040,Bhopal,CC Road Construction,1492958,VND_040_2,"Pau, Prabhakar and Soman",23OOPLZ2912J4Z2,"940, Menon Nagar, Rohtak 004906",71a2b1eef168cfca,1570349,False
+MPLAD_2026_041,TND_041,Raisen,Solar Street Lights,2202948,VND_041_1,Nayak Inc,23LKCZM3405N8Z9,"60/000, Sodhi Zila, Tinsukia-766117",11d06bb3611ee06f,2166136,True
+MPLAD_2026_041,TND_041,Raisen,Solar Street Lights,2202948,VND_041_2,Krishnamurthy-Mistry,23DHQEM9028R1Z2,"429, Das Road, Bhopal-866658",52087185b00c0e78,2241028,False
+MPLAD_2026_042,TND_042,Indore,Community Hall,2316980,VND_042_1,Sood-Bahri,23YFCML3279A0Z3,"H.No. 178, Agate Chowk, Morena-682183",d58d2160ddc57d63,2281004,True
+MPLAD_2026_042,TND_042,Indore,Community Hall,2316980,VND_042_2,Agarwal PLC,23KRGFY1168D9Z1,"65, Soni Street, Nangloi Jat 649811",ae052f45389e8997,2358830,False
+MPLAD_2026_043,TND_043,Vidisha,Drinking Water Borewell,1199318,VND_043_1,"Narayanan, Bir and Garg",23PMMHP3688X0Z4,"11/808, Palla Road, Satara-546311",c894f97eb9c6917c,1188137,True
+MPLAD_2026_043,TND_043,Vidisha,Drinking Water Borewell,1199318,VND_043_2,"Sathe, Rastogi and Narain",23UMXVR6304D3Z7,"69/79, Anne Chowk, Pune 716757",e5e282c9aa151ec1,1222022,False
+MPLAD_2026_044,TND_044,Vidisha,Solar Street Lights,1688308,VND_044_1,Shankar and Sons,23TNXZD2397J9Z6,"67, Ram Street, Gopalpur-238108",ceb4d96aed641b8e,1656367,True
+MPLAD_2026_044,TND_044,Vidisha,Solar Street Lights,1688308,VND_044_2,"Tara, Peri and Mangal",23PWYYT7315W6Z1,"142, Prashad Road, Bardhaman 589289",4a7cf998a3df2a14,1759521,False
+MPLAD_2026_045,TND_045,Bhopal,CC Road Construction,927113,VND_045_1,Keer-Khalsa,23VBRLC3544T7Z3,"93, Toor Path, Pune 554371",3016b39e40bfcb46,895727,True
+MPLAD_2026_045,TND_045,Bhopal,CC Road Construction,927113,VND_045_2,"Kapadia, Seshadri and Mandal",23XSPBI8370U3Z2,"H.No. 66, Badal Road, Hazaribagh 816790",40eb6539a0458e2a,981586,False
+MPLAD_2026_046,TND_046,Bhopal,Community Hall,1201793,VND_046_1,"Lad, Bahri and Luthra",23CIXAL5305A9Z2,"89/99, Misra Zila, Cuttack 165669",eef4594ff3679072,1184328,True
+MPLAD_2026_046,TND_046,Bhopal,Community Hall,1201793,VND_046_2,"Barman, Grewal and Parikh",23GNRNS0101M4Z2,"H.No. 29, Nayak Ganj, Baranagar-542209",6c22b32f6cf43dd3,1270593,False
+MPLAD_2026_047,TND_047,Raisen,Drinking Water Borewell,1184802,VND_047_1,Bhandari LLC,23ZSJED5157Y8Z5,"H.No. 357, Kala Ganj, Bangalore 087429",410d9e73f630189a,1161548,True
+MPLAD_2026_047,TND_047,Raisen,Drinking Water Borewell,1184802,VND_047_2,Taneja Ltd,23GTLGI9014T4Z3,"85/077, Mistry Circle, Karimnagar 499409",aa463766a87c3091,1255439,False
+MPLAD_2026_048,TND_048,Raisen,CC Road Construction,1729312,VND_048_1,"Sharaf, Mander and Narang",23RZDNN5426I1Z9,"H.No. 19, Saha Marg, Bhiwandi-703707",0e05590c8c98a572,1717896,True
+MPLAD_2026_048,TND_048,Raisen,CC Road Construction,1729312,VND_048_2,"Wagle, Gola and Merchant",23XSJWI3693X8Z2,"06/233, Seshadri, Agra 002804",f2c579b2726852f3,1745942,False
+MPLAD_2026_049,TND_049,Indore,CC Road Construction,995586,VND_049_1,"Madan, Bail and Sachdeva",23BXEFJ8138R1Z4,"H.No. 602, Misra, Jalgaon-106854",f1a268a2463da0b2,975095,True
+MPLAD_2026_049,TND_049,Indore,CC Road Construction,995586,VND_049_2,"Palla, Patil and Batra",23AWYMF6636L0Z5,"255, Tiwari Chowk, South Dumdum 021179",c624b7250fba8e43,1027384,False
+MPLAD_2026_050,TND_050,Vidisha,Drinking Water Borewell,1809481,VND_050_1,Balasubramanian and Sons,23LBSWU2629V1Z7,"20/68, Parsa Marg, Panchkula-478152",311be4660ac4e2e3,1790473,True
+MPLAD_2026_050,TND_050,Vidisha,Drinking Water Borewell,1809481,VND_050_2,"Nayar, Ramanathan and Menon",23SUPYK5026Q3Z7,"H.No. 02, Swaminathan Zila, Mangalore-504499",61202a8ad136b9a8,1872046,False
+MPLAD_2026_051,TND_051,Bhopal,Community Hall,1594764,VND_051_1,"Kara, Chatterjee and Dutta",23MYZZM6775I4Z4,"H.No. 16, Palla Marg, Gorakhpur-766026",9e24e66e9a73300f,1589623,True
+MPLAD_2026_051,TND_051,Bhopal,Community Hall,1594764,VND_051_2,Acharya Ltd,23QDTCL8440F2Z8,"498, Natarajan Zila, Miryalaguda 775951",7e8915820fc3d17c,1655937,False
+MPLAD_2026_052,TND_052,Sehore,Drinking Water Borewell,1398210,VND_052_1,Rout Ltd,23NBRZQ3123P4Z5,"74/74, Bahri Nagar, Hajipur-018228",8562efe8fb5554b5,1365488,True
+MPLAD_2026_052,TND_052,Sehore,Drinking Water Borewell,1398210,VND_052_2,"Sunder, Oak and Pandit",23KSSAN6567C0Z3,"61/24, Lad Nagar, Madurai-231125",aab51a749265c55a,1471998,False
+MPLAD_2026_053,TND_053,Raisen,Community Hall,1422241,VND_053_1,"Raju, Vohra and Nazareth",23RKVYV8172W1Z9,"H.No. 82, Reddy Circle, Naihati 027293",1121551a8bd8eafa,1402974,True
+MPLAD_2026_053,TND_053,Raisen,Community Hall,1422241,VND_053_2,Kadakia-Borde,23ZCKDW1279Y4Z1,"H.No. 42, Upadhyay Ganj, Kharagpur-667232",4fd03736200a6278,1439906,False
+MPLAD_2026_054,TND_054,Indore,School Boundary Wall,927837,VND_054_1,"Din, Srinivasan and Nadig",23ALZTR3944D9Z2,"H.No. 28, Dugar Circle, Mahbubnagar-871649",d879a3bd5eeb37fd,902285,True
+MPLAD_2026_054,TND_054,Indore,School Boundary Wall,927837,VND_054_2,Minhas Group,23MKVTJ3042H8Z9,"H.No. 818, Nath Path, Tiruppur-452999",d85926599740add4,945329,False
+MPLAD_2026_055,TND_055,Bhopal,School Boundary Wall,1799897,VND_055_1,More LLC,23XHFPW4648N3Z8,"33, Wable Road, Navi Mumbai-715485",865a33343296682d,1761943,True
+MPLAD_2026_055,TND_055,Bhopal,School Boundary Wall,1799897,VND_055_2,Lad-Apte,23OVLZB2162I9Z9,"H.No. 76, Kothari Road, Gurgaon-644145",a33ea62906f46556,1879512,False
+MPLAD_2026_056,TND_056,Raisen,CC Road Construction,1864993,VND_056_1,Buch Group,23WJEAU0366H1Z6,"H.No. 818, Gulati Zila, Gurgaon 492716",cfdf71593a544141,1854743,True
+MPLAD_2026_056,TND_056,Raisen,CC Road Construction,1864993,VND_056_2,Ray Inc,23KHOMF0817U4Z3,"H.No. 06, Barad Zila, Jalandhar 424505",83abba220246c556,1899349,False
+MPLAD_2026_057,TND_057,Bhopal,School Boundary Wall,942524,VND_057_1,"Kapadia, Walia and Pau",23HEKVO4718D2Z2,"42/033, Morar Path, Raipur-125677",4033614c9cf52bdd,922110,True
+MPLAD_2026_057,TND_057,Bhopal,School Boundary Wall,942524,VND_057_2,Grewal-Karpe,23CGLCM8077R6Z0,"53, Narayan, Jamnagar 437069",defaf39cb6c787f2,1005447,False
+MPLAD_2026_058,TND_058,Bhopal,School Boundary Wall,1316351,VND_058_1,Ramesh-Sagar,23SSNKT2372M8Z9,"08/725, Reddy Street, Bellary 584599",830ab8716ef973fc,1308747,True
+MPLAD_2026_058,TND_058,Bhopal,School Boundary Wall,1316351,VND_058_2,Taneja and Sons,23XBEDW4351R1Z3,"313, Shetty Chowk, Kottayam 981998",62f4283b8ebb2832,1337096,False
+MPLAD_2026_059,TND_059,Vidisha,School Boundary Wall,1985366,VND_059_1,"Dube, Chacko and Nagy",23DYAKH6590T5Z8,"885, Deep Road, Barasat 415645",1d0304455158d7b1,1946105,True
+MPLAD_2026_059,TND_059,Vidisha,School Boundary Wall,1985366,VND_059_2,Tella and Sons,23HMALJ4615G2Z8,"95/635, Narain Marg, Saharanpur-879378",58e561110aae13f2,2036833,False
+MPLAD_2026_060,TND_060,Sehore,Community Hall,2204517,VND_060_1,Chaudhary-Goel,23TKLQT0954S2Z9,"84/38, Samra Nagar, Shimla 781888",4a48f55e5d039469,2178927,True
+MPLAD_2026_060,TND_060,Sehore,Community Hall,2204517,VND_060_2,"Karnik, Saini and Kadakia",23SMEFD9791S7Z9,"99/984, Bora Circle, Chandrapur-300426",041edf81def5dea1,2245802,False
+MPLAD_2026_061,TND_061,Bhopal,CC Road Construction,1800000,VND_CARTEL_01,Shree Balaji Infra Pvt Ltd,23AABCS1234F1Z5,"Plot 42, Industrial Area Phase 2, Bhopal, MP",CARTEL_BANK_998877,1790000,True
+MPLAD_2026_061,TND_061,Bhopal,CC Road Construction,1800000,VND_CARTEL_02,Narmada Builders & Suppliers,23AAACN5678K1Z2,"Plot 42, Industrial Area Phase 2, Bhopal, MP",CARTEL_BANK_998877,1870000,False
+MPLAD_2026_061,TND_061,Bhopal,CC Road Construction,1800000,VND_CARTEL_03,Vindhya Construction Co,23AAECV9012M1Z9,"Plot 42, Industrial Area Phase 2, Bhopal, MP",CARTEL_BANK_998877,1890000,False
+MPLAD_2026_062,TND_062,Bhopal,CC Road Construction,1800000,VND_CARTEL_01,Shree Balaji Infra Pvt Ltd,23AABCS1234F1Z5,"Plot 42, Industrial Area Phase 2, Bhopal, MP",CARTEL_BANK_998877,1850000,False
+MPLAD_2026_062,TND_062,Bhopal,CC Road Construction,1800000,VND_CARTEL_02,Narmada Builders & Suppliers,23AAACN5678K1Z2,"Plot 42, Industrial Area Phase 2, Bhopal, MP",CARTEL_BANK_998877,1790000,True
+MPLAD_2026_062,TND_062,Bhopal,CC Road Construction,1800000,VND_CARTEL_03,Vindhya Construction Co,23AAECV9012M1Z9,"Plot 42, Industrial Area Phase 2, Bhopal, MP",CARTEL_BANK_998877,1890000,False
+MPLAD_2026_063,TND_063,Bhopal,CC Road Construction,1800000,VND_CARTEL_01,Shree Balaji Infra Pvt Ltd,23AABCS1234F1Z5,"Plot 42, Industrial Area Phase 2, Bhopal, MP",CARTEL_BANK_998877,1850000,False
+MPLAD_2026_063,TND_063,Bhopal,CC Road Construction,1800000,VND_CARTEL_02,Narmada Builders & Suppliers,23AAACN5678K1Z2,"Plot 42, Industrial Area Phase 2, Bhopal, MP",CARTEL_BANK_998877,1870000,False
+MPLAD_2026_063,TND_063,Bhopal,CC Road Construction,1800000,VND_CARTEL_03,Vindhya Construction Co,23AAECV9012M1Z9,"Plot 42, Industrial Area Phase 2, Bhopal, MP",CARTEL_BANK_998877,1790000,True
+MPLAD_2026_064,TND_064,Bhopal,CC Road Construction,1800000,VND_CARTEL_01,Shree Balaji Infra Pvt Ltd,23AABCS1234F1Z5,"Plot 42, Industrial Area Phase 2, Bhopal, MP",CARTEL_BANK_998877,1790000,True
+MPLAD_2026_064,TND_064,Bhopal,CC Road Construction,1800000,VND_CARTEL_02,Narmada Builders & Suppliers,23AAACN5678K1Z2,"Plot 42, Industrial Area Phase 2, Bhopal, MP",CARTEL_BANK_998877,1870000,False
+MPLAD_2026_064,TND_064,Bhopal,CC Road Construction,1800000,VND_CARTEL_03,Vindhya Construction Co,23AAECV9012M1Z9,"Plot 42, Industrial Area Phase 2, Bhopal, MP",CARTEL_BANK_998877,1890000,False
+MPLAD_2026_065,TND_065,Bhopal,CC Road Construction,1800000,VND_CARTEL_01,Shree Balaji Infra Pvt Ltd,23AABCS1234F1Z5,"Plot 42, Industrial Area Phase 2, Bhopal, MP",CARTEL_BANK_998877,1850000,False
+MPLAD_2026_065,TND_065,Bhopal,CC Road Construction,1800000,VND_CARTEL_02,Narmada Builders & Suppliers,23AAACN5678K1Z2,"Plot 42, Industrial Area Phase 2, Bhopal, MP",CARTEL_BANK_998877,1790000,True
+MPLAD_2026_065,TND_065,Bhopal,CC Road Construction,1800000,VND_CARTEL_03,Vindhya Construction Co,23AAECV9012M1Z9,"Plot 42, Industrial Area Phase 2, Bhopal, MP",CARTEL_BANK_998877,1890000,False
+MPLAD_2026_066,TND_SPLIT_01,Raisen,Solar Street Lights,950000,VND_SPLIT_99,Apex Star Enterprises,23AABCA4455D1Z1,"Shop 12, Main Market, Raisen, MP",SPLIT_ACC_554433,948000,True
+MPLAD_2026_067,TND_SPLIT_02,Raisen,Solar Street Lights,950000,VND_SPLIT_99,Apex Star Enterprises,23AABCA4455D1Z1,"Shop 12, Main Market, Raisen, MP",SPLIT_ACC_554433,948000,True
+MPLAD_2026_068,TND_SPLIT_03,Raisen,Solar Street Lights,950000,VND_SPLIT_99,Apex Star Enterprises,23AABCA4455D1Z1,"Shop 12, Main Market, Raisen, MP",SPLIT_ACC_554433,948000,True
