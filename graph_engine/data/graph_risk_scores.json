@@ -1,0 +1,1039 @@
+[
+  {
+    "project_id":"MPLAD_2026_001",
+    "district":"Bhopal",
+    "work_category":"CC Road Construction",
+    "sanctioned_amount":2355144,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Kamdar, Parekh and Sama",
+      "Brar, Sen and Bakshi"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_002",
+    "district":"Raisen",
+    "work_category":"Community Hall",
+    "sanctioned_amount":2344492,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Choudhary, Pathak and Arora",
+      "Apte-Suri"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_003",
+    "district":"Indore",
+    "work_category":"Drinking Water Borewell",
+    "sanctioned_amount":866653,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Khalsa-Dhawan",
+      "Sankar-Sachar"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_004",
+    "district":"Raisen",
+    "work_category":"Community Hall",
+    "sanctioned_amount":1859806,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Nagar-Mital",
+      "Sarna-Dhar"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_005",
+    "district":"Indore",
+    "work_category":"Drinking Water Borewell",
+    "sanctioned_amount":1262297,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Deo, Varughese and Dey",
+      "Halder LLC"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_006",
+    "district":"Bhopal",
+    "work_category":"Community Hall",
+    "sanctioned_amount":2264104,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Shenoy-Parmar",
+      "Rattan-Kunda"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_007",
+    "district":"Sehore",
+    "work_category":"Community Hall",
+    "sanctioned_amount":1251545,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Talwar Inc",
+      "Acharya-Badami"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_008",
+    "district":"Bhopal",
+    "work_category":"Drinking Water Borewell",
+    "sanctioned_amount":1002828,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Koshy-Ramachandran",
+      "Gandhi-Murty"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_009",
+    "district":"Indore",
+    "work_category":"Solar Street Lights",
+    "sanctioned_amount":2492670,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Memon, Kata and Chokshi",
+      "Sami-Dua"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_010",
+    "district":"Indore",
+    "work_category":"CC Road Construction",
+    "sanctioned_amount":1593844,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Sen-Dhar",
+      "Sama-Thaker"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_011",
+    "district":"Indore",
+    "work_category":"Solar Street Lights",
+    "sanctioned_amount":2010795,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Palla-Puri",
+      "Arora, Toor and Dani"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_012",
+    "district":"Bhopal",
+    "work_category":"Community Hall",
+    "sanctioned_amount":2421241,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Kata-Narang",
+      "Verma-Narayan"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_013",
+    "district":"Raisen",
+    "work_category":"CC Road Construction",
+    "sanctioned_amount":1597182,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Hayre Group",
+      "Bassi-Varughese"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_014",
+    "district":"Sehore",
+    "work_category":"Community Hall",
+    "sanctioned_amount":1576325,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Pandey Group",
+      "Raghavan, Bath and Bhakta"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_015",
+    "district":"Sehore",
+    "work_category":"CC Road Construction",
+    "sanctioned_amount":2077440,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Saini, Acharya and Seth",
+      "Tripathi, Kumar and Chander"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_016",
+    "district":"Raisen",
+    "work_category":"Drinking Water Borewell",
+    "sanctioned_amount":1595775,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Gokhale, Goda and Devan",
+      "Ravel-Sampath"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_017",
+    "district":"Sehore",
+    "work_category":"CC Road Construction",
+    "sanctioned_amount":1280348,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Hora-Char",
+      "Nori-Kaul"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_018",
+    "district":"Vidisha",
+    "work_category":"Solar Street Lights",
+    "sanctioned_amount":938807,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Sharma, Cherian and Khare",
+      "Modi, Nagi and Suresh"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_019",
+    "district":"Raisen",
+    "work_category":"Drinking Water Borewell",
+    "sanctioned_amount":1629700,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Lata, Kapoor and Joshi",
+      "Arora and Sons"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_020",
+    "district":"Sehore",
+    "work_category":"Community Hall",
+    "sanctioned_amount":1317215,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Cheema, Dhingra and Borah",
+      "Ratti, Datta and Narula"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_021",
+    "district":"Indore",
+    "work_category":"Drinking Water Borewell",
+    "sanctioned_amount":1559161,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Keer Ltd",
+      "Handa and Sons"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_022",
+    "district":"Indore",
+    "work_category":"Drinking Water Borewell",
+    "sanctioned_amount":990650,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Thakkar, Bhagat and Butala",
+      "Joshi, Kaur and Ray"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_023",
+    "district":"Raisen",
+    "work_category":"Community Hall",
+    "sanctioned_amount":2461110,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Ghosh, Arya and Pandey",
+      "Tata-Lad"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_024",
+    "district":"Vidisha",
+    "work_category":"Drinking Water Borewell",
+    "sanctioned_amount":2049668,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Badami Ltd",
+      "Pall, Saran and Natt"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_025",
+    "district":"Sehore",
+    "work_category":"School Boundary Wall",
+    "sanctioned_amount":824077,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Chana Inc",
+      "Grover-Mall"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_026",
+    "district":"Sehore",
+    "work_category":"CC Road Construction",
+    "sanctioned_amount":1415514,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Bhatti, Srinivasan and Behl",
+      "Pillai-Ganesan"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_027",
+    "district":"Vidisha",
+    "work_category":"CC Road Construction",
+    "sanctioned_amount":2314336,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Srivastava, Sheth and Choudhry",
+      "Randhawa-Ahluwalia"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_028",
+    "district":"Raisen",
+    "work_category":"School Boundary Wall",
+    "sanctioned_amount":1023159,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Bhardwaj and Sons",
+      "Bhargava, Minhas and Ramaswamy"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_029",
+    "district":"Indore",
+    "work_category":"Community Hall",
+    "sanctioned_amount":1120527,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Ramesh, Vasa and Tripathi",
+      "Sachdeva, Wason and Hayre"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_030",
+    "district":"Indore",
+    "work_category":"School Boundary Wall",
+    "sanctioned_amount":801199,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Manda PLC",
+      "Yogi, Edwin and Agarwal"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_031",
+    "district":"Bhopal",
+    "work_category":"CC Road Construction",
+    "sanctioned_amount":1561225,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Wable, Batta and Vig",
+      "Dara, Yohannan and Sidhu"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_032",
+    "district":"Bhopal",
+    "work_category":"Community Hall",
+    "sanctioned_amount":1989833,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Narayanan-Dugar",
+      "Kale PLC"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_033",
+    "district":"Vidisha",
+    "work_category":"CC Road Construction",
+    "sanctioned_amount":2395098,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Ram, Varghese and Narula",
+      "Lall PLC"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_034",
+    "district":"Raisen",
+    "work_category":"Drinking Water Borewell",
+    "sanctioned_amount":1953021,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Saran and Sons",
+      "Dhillon-Bhat"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_035",
+    "district":"Indore",
+    "work_category":"School Boundary Wall",
+    "sanctioned_amount":1687384,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Magar Group",
+      "Chad-Nair"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_036",
+    "district":"Sehore",
+    "work_category":"Drinking Water Borewell",
+    "sanctioned_amount":2208629,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Babu Inc",
+      "Kala, Chopra and Choudhry"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_037",
+    "district":"Indore",
+    "work_category":"Drinking Water Borewell",
+    "sanctioned_amount":1053764,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Setty, Krishna and Palla",
+      "Naik, Aurora and Kashyap"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_038",
+    "district":"Bhopal",
+    "work_category":"Solar Street Lights",
+    "sanctioned_amount":844112,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Bora and Sons",
+      "Sur, Vala and Sheth"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_039",
+    "district":"Bhopal",
+    "work_category":"CC Road Construction",
+    "sanctioned_amount":2284450,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Rajagopal Inc",
+      "Korpal PLC"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_040",
+    "district":"Bhopal",
+    "work_category":"CC Road Construction",
+    "sanctioned_amount":1492958,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Dhar, Sarraf and Misra",
+      "Pau, Prabhakar and Soman"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_041",
+    "district":"Raisen",
+    "work_category":"Solar Street Lights",
+    "sanctioned_amount":2202948,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Nayak Inc",
+      "Krishnamurthy-Mistry"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_042",
+    "district":"Indore",
+    "work_category":"Community Hall",
+    "sanctioned_amount":2316980,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Sood-Bahri",
+      "Agarwal PLC"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_043",
+    "district":"Vidisha",
+    "work_category":"Drinking Water Borewell",
+    "sanctioned_amount":1199318,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Narayanan, Bir and Garg",
+      "Sathe, Rastogi and Narain"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_044",
+    "district":"Vidisha",
+    "work_category":"Solar Street Lights",
+    "sanctioned_amount":1688308,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Shankar and Sons",
+      "Tara, Peri and Mangal"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_045",
+    "district":"Bhopal",
+    "work_category":"CC Road Construction",
+    "sanctioned_amount":927113,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Keer-Khalsa",
+      "Kapadia, Seshadri and Mandal"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_046",
+    "district":"Bhopal",
+    "work_category":"Community Hall",
+    "sanctioned_amount":1201793,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Lad, Bahri and Luthra",
+      "Barman, Grewal and Parikh"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_047",
+    "district":"Raisen",
+    "work_category":"Drinking Water Borewell",
+    "sanctioned_amount":1184802,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Bhandari LLC",
+      "Taneja Ltd"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_048",
+    "district":"Raisen",
+    "work_category":"CC Road Construction",
+    "sanctioned_amount":1729312,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Sharaf, Mander and Narang",
+      "Wagle, Gola and Merchant"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_049",
+    "district":"Indore",
+    "work_category":"CC Road Construction",
+    "sanctioned_amount":995586,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Madan, Bail and Sachdeva",
+      "Palla, Patil and Batra"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_050",
+    "district":"Vidisha",
+    "work_category":"Drinking Water Borewell",
+    "sanctioned_amount":1809481,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Balasubramanian and Sons",
+      "Nayar, Ramanathan and Menon"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_051",
+    "district":"Bhopal",
+    "work_category":"Community Hall",
+    "sanctioned_amount":1594764,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Kara, Chatterjee and Dutta",
+      "Acharya Ltd"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_052",
+    "district":"Sehore",
+    "work_category":"Drinking Water Borewell",
+    "sanctioned_amount":1398210,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Rout Ltd",
+      "Sunder, Oak and Pandit"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_053",
+    "district":"Raisen",
+    "work_category":"Community Hall",
+    "sanctioned_amount":1422241,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Raju, Vohra and Nazareth",
+      "Kadakia-Borde"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_054",
+    "district":"Indore",
+    "work_category":"School Boundary Wall",
+    "sanctioned_amount":927837,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Din, Srinivasan and Nadig",
+      "Minhas Group"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_055",
+    "district":"Bhopal",
+    "work_category":"School Boundary Wall",
+    "sanctioned_amount":1799897,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "More LLC",
+      "Lad-Apte"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_056",
+    "district":"Raisen",
+    "work_category":"CC Road Construction",
+    "sanctioned_amount":1864993,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Buch Group",
+      "Ray Inc"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_057",
+    "district":"Bhopal",
+    "work_category":"School Boundary Wall",
+    "sanctioned_amount":942524,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Kapadia, Walia and Pau",
+      "Grewal-Karpe"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_058",
+    "district":"Bhopal",
+    "work_category":"School Boundary Wall",
+    "sanctioned_amount":1316351,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Ramesh-Sagar",
+      "Taneja and Sons"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_059",
+    "district":"Vidisha",
+    "work_category":"School Boundary Wall",
+    "sanctioned_amount":1985366,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Dube, Chacko and Nagy",
+      "Tella and Sons"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_060",
+    "district":"Sehore",
+    "work_category":"Community Hall",
+    "sanctioned_amount":2204517,
+    "relational_graph_risk":0,
+    "risk_level":"LOW",
+    "involved_vendors":[
+      "Chaudhary-Goel",
+      "Karnik, Saini and Kadakia"
+    ],
+    "flags":[
+      "No collusion anomalies detected"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_061",
+    "district":"Bhopal",
+    "work_category":"CC Road Construction",
+    "sanctioned_amount":1800000,
+    "relational_graph_risk":100,
+    "risk_level":"HIGH",
+    "involved_vendors":[
+      "Shree Balaji Infra Pvt Ltd",
+      "Narmada Builders & Suppliers",
+      "Vindhya Construction Co"
+    ],
+    "flags":[
+      "Shared Bank Account detected across 3 competing vendors",
+      "Shared Physical Address detected across 3 vendors",
+      "Bidding Cartel Pattern: Vendors co-bid together on 5 tenders",
+      "Bidding Cartel Pattern: Vendors co-bid together on 5 tenders"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_062",
+    "district":"Bhopal",
+    "work_category":"CC Road Construction",
+    "sanctioned_amount":1800000,
+    "relational_graph_risk":100,
+    "risk_level":"HIGH",
+    "involved_vendors":[
+      "Shree Balaji Infra Pvt Ltd",
+      "Narmada Builders & Suppliers",
+      "Vindhya Construction Co"
+    ],
+    "flags":[
+      "Shared Bank Account detected across 3 competing vendors",
+      "Shared Physical Address detected across 3 vendors",
+      "Bidding Cartel Pattern: Vendors co-bid together on 5 tenders",
+      "Bidding Cartel Pattern: Vendors co-bid together on 5 tenders"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_063",
+    "district":"Bhopal",
+    "work_category":"CC Road Construction",
+    "sanctioned_amount":1800000,
+    "relational_graph_risk":100,
+    "risk_level":"HIGH",
+    "involved_vendors":[
+      "Shree Balaji Infra Pvt Ltd",
+      "Narmada Builders & Suppliers",
+      "Vindhya Construction Co"
+    ],
+    "flags":[
+      "Shared Bank Account detected across 3 competing vendors",
+      "Shared Physical Address detected across 3 vendors",
+      "Bidding Cartel Pattern: Vendors co-bid together on 5 tenders",
+      "Bidding Cartel Pattern: Vendors co-bid together on 5 tenders"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_064",
+    "district":"Bhopal",
+    "work_category":"CC Road Construction",
+    "sanctioned_amount":1800000,
+    "relational_graph_risk":100,
+    "risk_level":"HIGH",
+    "involved_vendors":[
+      "Shree Balaji Infra Pvt Ltd",
+      "Narmada Builders & Suppliers",
+      "Vindhya Construction Co"
+    ],
+    "flags":[
+      "Shared Bank Account detected across 3 competing vendors",
+      "Shared Physical Address detected across 3 vendors",
+      "Bidding Cartel Pattern: Vendors co-bid together on 5 tenders",
+      "Bidding Cartel Pattern: Vendors co-bid together on 5 tenders"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_065",
+    "district":"Bhopal",
+    "work_category":"CC Road Construction",
+    "sanctioned_amount":1800000,
+    "relational_graph_risk":100,
+    "risk_level":"HIGH",
+    "involved_vendors":[
+      "Shree Balaji Infra Pvt Ltd",
+      "Narmada Builders & Suppliers",
+      "Vindhya Construction Co"
+    ],
+    "flags":[
+      "Shared Bank Account detected across 3 competing vendors",
+      "Shared Physical Address detected across 3 vendors",
+      "Bidding Cartel Pattern: Vendors co-bid together on 5 tenders",
+      "Bidding Cartel Pattern: Vendors co-bid together on 5 tenders"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_066",
+    "district":"Raisen",
+    "work_category":"Solar Street Lights",
+    "sanctioned_amount":950000,
+    "relational_graph_risk":65,
+    "risk_level":"MEDIUM",
+    "involved_vendors":[
+      "Apex Star Enterprises"
+    ],
+    "flags":[
+      "Split-Tendering Alert: Apex Star Enterprises won 3 projects under ?10L in Raisen"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_067",
+    "district":"Raisen",
+    "work_category":"Solar Street Lights",
+    "sanctioned_amount":950000,
+    "relational_graph_risk":65,
+    "risk_level":"MEDIUM",
+    "involved_vendors":[
+      "Apex Star Enterprises"
+    ],
+    "flags":[
+      "Split-Tendering Alert: Apex Star Enterprises won 3 projects under ?10L in Raisen"
+    ]
+  },
+  {
+    "project_id":"MPLAD_2026_068",
+    "district":"Raisen",
+    "work_category":"Solar Street Lights",
+    "sanctioned_amount":950000,
+    "relational_graph_risk":65,
+    "risk_level":"MEDIUM",
+    "involved_vendors":[
+      "Apex Star Enterprises"
+    ],
+    "flags":[
+      "Split-Tendering Alert: Apex Star Enterprises won 3 projects under ?10L in Raisen"
+    ]
+  }
+]
