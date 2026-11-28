@@ -3,11 +3,14 @@ from pathlib import Path
 from typing import List
 import numpy as np
 import pandas as pd
-from fastapi import FastAPI, HTTPException
+
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 
 from app.anomaly_models import FinancialAnomalyDetector
+import tempfile
+from fastapi import FastAPI, HTTPException, UploadFile, File
+from app.image_verifier import get_exif_data
 from app.risk_scorer import calculate_composite_risk
 
 MODEL_PATH = Path(os.getenv("ML_MODEL_PATH", "app/models/isolation_forest_v1.joblib"))
@@ -139,3 +142,23 @@ def calculate_risk_score(payload: CompositeRiskRequest):
         recommended_action=result["recommended_action"],
         component_scores=result["component_scores"],
     )
+@app.post("/verify/visual")
+async def verify_visual_evidence(file: UploadFile = File(...)):
+    suffix = os.path.splitext(file.filename or "upload.jpg")[1] or ".jpg"
+    tmp_path = None
+    try:
+        with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as tmp:
+            tmp.write(await file.read())
+            tmp_path = tmp.name
+        exif_result = get_exif_data(tmp_path)
+        has_gps = "GPSInfo" in exif_result and "error" not in exif_result
+        return {
+            "filename": file.filename,
+            "has_gps": has_gps,
+            "exif_data": exif_result,
+        }
+    except Exception as exc:
+        raise HTTPException(status_code=500, detail=str(exc))
+    finally:
+        if tmp_path and os.path.exists(tmp_path):
+            os.remove(tmp_path)

@@ -140,10 +140,9 @@ st.caption("Unified Multi-Modal Auditing: ML Expenditure Anomaly + Spatial EXIF 
 
 c1, c2, c3, c4 = st.columns(4)
 c1.metric("Monitored Projects", len(df))
-c2.metric("High-Risk (RED) Alerts", int((df["composite_risk_index"] >= 70).sum()))
-c3.metric("Watchlist (YELLOW)", int(((df["composite_risk_index"] >= 40) & (df["composite_risk_index"] < 70)).sum()))
-c4.metric("Safe Zone (GREEN)", int((df["composite_risk_index"] < 40).sum()))
-
+c2.metric("High-Risk (RED) Alerts", int((df["composite_risk_index"] >= 60).sum()))
+c3.metric("Watchlist (YELLOW)", int(((df["composite_risk_index"] >= 35) & (df["composite_risk_index"] < 60)).sum()))
+c4.metric("Safe Zone (GREEN)", int((df["composite_risk_index"] < 35).sum()))
 st.divider()
 default_idx = sorted_ids.index(requested_pid) if requested_pid in sorted_ids else 0
 selected_project = st.selectbox("Select Project ID to Inspect:", options=sorted_ids, index=default_idx)
