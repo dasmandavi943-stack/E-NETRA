@@ -230,6 +230,22 @@ export default function App() {
                 </div>
               </div>
 
+              {/* Interactive Collusion Network Graph (Embedded from Streamlit) */}
+              <div className="border-t border-slate-200 pt-4 space-y-2">
+                <h3 className="text-sm font-semibold flex items-center gap-1.5">
+                  <Link2 className="w-4 h-4 text-purple-600" />
+                  Interactive Collusion Network Graph
+                </h3>
+                <div className="rounded-xl overflow-hidden border border-slate-200 bg-slate-50">
+                  <iframe
+                    key={activeProject.id}
+                    src={`http://localhost:8501/?project_id=${encodeURIComponent(activeProject.id)}&embed=true`}
+                    title={`Collusion Graph for ${activeProject.id}`}
+                    className="w-full h-[460px] border-0"
+                  />
+                </div>
+              </div>
+
               {/* Graph Collusion Links */}
               <div className="border-t border-slate-200 pt-4 space-y-2.5">
                 <h3 className="text-sm font-semibold flex items-center gap-1.5">

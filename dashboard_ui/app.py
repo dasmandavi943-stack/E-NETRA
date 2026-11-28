@@ -111,9 +111,27 @@ st.dataframe(
 
 st.divider()
 
-st.subheader("🕵️ Project Forensic & Collusion Network Inspector")
+qp = st.query_params
+embed_mode = str(qp.get("embed", "false")).lower() == "true"
+requested_pid = qp.get("project_id", None)
+
 sorted_ids = df.sort_values("composite_risk_index", ascending=False)["project_id"].tolist()
-selected_project = st.selectbox("Select Project ID to Inspect:", options=sorted_ids, index=0)
+
+if embed_mode:
+    st.markdown(
+        "<style>[data-testid='stSidebar'], header, footer {display: none !important;} "
+        ".block-container {padding-top: 0.4rem !important; padding-bottom: 0.4rem !important;}</style>",
+        unsafe_allow_html=True,
+    )
+    if requested_pid in df["project_id"].values:
+        selected_project = requested_pid
+    else:
+        idx = sum(ord(c) for c in str(requested_pid or "0")) % len(sorted_ids)
+        selected_project = sorted_ids[idx]
+else:
+    st.subheader("Project Forensic & Collusion Network Inspector")
+    default_idx = sorted_ids.index(requested_pid) if requested_pid in sorted_ids else 0
+    selected_project = st.selectbox("Select Project ID to Inspect:", options=sorted_ids, index=default_idx)
 
 proj = df[df["project_id"] == selected_project].iloc[0]
 
@@ -160,6 +178,63 @@ def build_local_subgraph(full_df, row):
         edges.append({"source": other_pid, "target": vid})
 
     return nodes, edges
+
+if embed_mode:
+    st.markdown(f"#### Collusion Network ? `{selected_project}` ({proj['cri_band']} RISK)")
+    nodes, edges = [], []
+    source_label = "Dataset Relational Subgraph"
+    try:
+        resp = requests.get(f"http://127.0.0.1:8003/api/v1/graph/project/{selected_project}", timeout=1.5)
+        if resp.status_code == 200:
+            graph_data = resp.json()
+            nodes = graph_data.get("nodes", [])
+            edges = graph_data.get("edges", [])
+            source_label = "Live Graph API (Port 8003)"
+    except Exception:
+        pass
+    if not nodes:
+        nodes, edges = build_local_subgraph(df, proj)
+
+    G = nx.Graph()
+    for n in nodes:
+        G.add_node(n["id"], label=n.get("label", n["id"]), ntype=n.get("type", "ENTITY"))
+    for e in edges:
+        G.add_edge(e["source"], e["target"])
+
+    pos = nx.spring_layout(G, seed=42, k=0.9)
+    edge_x, edge_y = [], []
+    for u, v in G.edges():
+        x0, y0 = pos[u]
+        x1, y1 = pos[v]
+        edge_x.extend([x0, x1, None])
+        edge_y.extend([y0, y1, None])
+
+    edge_trace = go.Scatter(x=edge_x, y=edge_y, line=dict(width=1.8, color="#94A3B8"), mode="lines")
+    color_map = {"PROJECT": "#3B82F6", "VENDOR": "#EF4444", "BANK": "#F59E0B", "ADDRESS": "#8B5CF6", "MP": "#10B981"}
+    node_x, node_y, node_text, node_color = [], [], [], []
+    for node in G.nodes():
+        x, y = pos[node]
+        node_x.append(x)
+        node_y.append(y)
+        ntype = G.nodes[node]["ntype"]
+        node_text.append(f"{ntype}: {G.nodes[node]['label']}")
+        node_color.append(color_map.get(ntype, "#64748B"))
+
+    node_trace = go.Scatter(
+        x=node_x, y=node_y, mode="markers+text",
+        text=[G.nodes[n]["label"] for n in G.nodes()],
+        textposition="top center", hovertext=node_text, hoverinfo="text",
+        marker=dict(size=22, color=node_color, line=dict(width=2, color="white"))
+    )
+    fig_net = go.Figure(data=[edge_trace, node_trace])
+    fig_net.update_layout(
+        showlegend=False, height=370, margin=dict(l=10, r=10, t=20, b=10),
+        xaxis=dict(showgrid=False, zeroline=False, showticklabels=False),
+        yaxis=dict(showgrid=False, zeroline=False, showticklabels=False)
+    )
+    st.plotly_chart(fig_net, use_container_width=True)
+    st.caption(f"Source: {source_label} | Blue: Project | Red: Vendor | Yellow: Bank | Purple: Address | Green: MP")
+    st.stop()
 
 det_col1, det_col2 = st.columns([1, 1.4])
 
