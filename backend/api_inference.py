@@ -7,8 +7,8 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 
-from app.src.anomaly_models import FinancialAnomalyDetector
-from app.src.risk_scorer import calculate_composite_risk
+from app.anomaly_models import FinancialAnomalyDetector
+from app.risk_scorer import calculate_composite_risk
 
 MODEL_PATH = Path(os.getenv("ML_MODEL_PATH", "app/models/isolation_forest_v1.joblib"))
 ALLOWED_ORIGINS = [
