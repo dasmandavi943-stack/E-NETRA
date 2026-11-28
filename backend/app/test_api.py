@@ -1,5 +1,5 @@
 from fastapi.testclient import TestClient
-from backend.app.src.api_inference import app
+from app.src.api_inference import app
 
 
 def test_health_endpoint():
