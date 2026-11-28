@@ -113,13 +113,13 @@ def render_network_graph(selected_project, proj, height=340):
     st.plotly_chart(fig, use_container_width=True, config={"displayModeBar": False})
     st.markdown(
         "<div style='font-size:11px;color:#475569;text-align:center;margin-top:-8px;'>"
-        "?? Project &nbsp; ?? Vendor &nbsp; ?? Bank &nbsp; ?? Address &nbsp; ?? MP</div>",
+        "|| Project &nbsp; || Vendor &nbsp; || Bank &nbsp; || Address &nbsp; || MP</div>",
         unsafe_allow_html=True,
     )
 
 sorted_ids = df.sort_values("composite_risk_index", ascending=False)["project_id"].tolist()
 
-# EMBEDDED MODE (Inside React Frontend Iframe ? Clean Light Graph Only)
+# EMBEDDED MODE (Inside React Frontend Iframe | Clean Light Graph Only)
 if embed_mode:
     st.markdown(
         """<style>
@@ -135,7 +135,7 @@ if embed_mode:
     st.stop()
 
 # STANDALONE ANALYTICAL MODE (Matches React Counts 100%: 25 Projects, 5 High-Risk Alerts)
-st.title("E-NETRA ? MPLADS VigilAI Integrity Dashboard")
+st.title("E-NETRA | MPLADS VigilAI Integrity Dashboard")
 st.caption("Unified Multi-Modal Auditing: ML Expenditure Anomaly + Spatial EXIF GPS + Relational Collusion Graph")
 
 c1, c2, c3, c4 = st.columns(4)
@@ -151,7 +151,7 @@ proj = df[df["project_id"] == selected_project].iloc[0]
 
 col_left, col_right = st.columns([1, 1.4])
 with col_left:
-    st.subheader(f"{selected_project} ? {proj['cri_band']} RISK")
+    st.subheader(f"{selected_project} | {proj['cri_band']} RISK")
     st.write(f"**Work:** {proj['work_category']} ({proj['district']})")
     st.write(f"**Vendor:** {proj['vendor_name']} (`{proj['vendor_id']}`)")
     st.write(f"**Bank Hash:** `{proj['bank_account_id']}`")
